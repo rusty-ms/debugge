@@ -33,20 +33,17 @@
             .title {
                 font-size: 96px;
             }
-            .footer {
-            	position: absolute;
-            	bottom: 0;
-            	left: 50%;
-            	font-size: 24px;
+            .body {
+                font-size: 60px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Welcome to the new Debugge.<br />Currently in DEV.</div>
+                <div class="title">About<br /></div>
+                <div class="body">We are a small tech based website that aims to provide you all the tools you need in one place to debug your issues. We are run by Crimm: <a href="http://twitter.com/crimmFTW">@crimmFTW</a></div>
             </div>
         </div>
-    <div class="footer"><a href="/about">About</a></div>
     </body>
 </html>
